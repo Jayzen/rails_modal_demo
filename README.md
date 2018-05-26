@@ -1,0 +1,1 @@
+1. 在进行update的过程中，model并没有隐藏，这里的解决方案是去除turbolinks
